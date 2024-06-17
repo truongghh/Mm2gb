@@ -640,7 +640,7 @@ Converted["_Close"].BorderSizePixel = 0
 Converted["_Close"].Position = UDim2.new(0.914614439, 0, 0.914238751, 0)
 Converted["_Close"].Size = UDim2.new(0.133786857, 0, 0.111940302, 0)
 Converted["_Close"].ZIndex = 999999999
-Converted["_Close"].Name = "Close"
+Converted["_Close"].Name = "Đóng/Close"
 Converted["_Close"].Parent = Converted["_Menu"]
 
 Converted["_UICorner13"].Parent = Converted["_Close"]
@@ -648,7 +648,7 @@ Converted["_UICorner13"].Parent = Converted["_Close"]
 Converted["_UIStroke9"].Parent = Converted["_Close"]
 
 Converted["_HubCredits"].Font = Enum.Font.GothamBold
-Converted["_HubCredits"].Text = "made and open sourced by imperial"
+Converted["_HubCredits"].Text = "made and open sourced by Truong"
 Converted["_HubCredits"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_HubCredits"].TextScaled = true
 Converted["_HubCredits"].TextSize = 14
@@ -666,7 +666,7 @@ Converted["_HubCredits"].Name = "HubCredits"
 Converted["_HubCredits"].Parent = Converted["_Menu"]
 
 Converted["_HubDesc"].Font = Enum.Font.GothamBold
-Converted["_HubDesc"].Text = "yet another random hub menu"
+Converted["_HubDesc"].Text = "Khoibatochuoi"
 Converted["_HubDesc"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_HubDesc"].TextSize = 14
 Converted["_HubDesc"].TextWrapped = true
@@ -710,7 +710,7 @@ Converted["_CanvasGroup"].Parent = Converted["_Menu"]
 
 Converted["_UICorner14"].Parent = Converted["_CanvasGroup"]
 
-Converted["_ImageLabel"].Image = "rbxassetid://17864987433"
+Converted["_ImageLabel"].Image = "rbxassetid://17897174034"
 Converted["_ImageLabel"].AnchorPoint = Vector2.new(0.5, 0.5)
 Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel"].BorderColor3 = Color3.fromRGB(0, 0, 0)
@@ -770,7 +770,7 @@ Converted["_TextLabel5"].Size = UDim2.new(0, 200, 0, 50)
 Converted["_TextLabel5"].Parent = Converted["_Area1"]
 
 Converted["_TextLabel6"].Font = Enum.Font.GothamBold
-Converted["_TextLabel6"].Text = "Goodbiy"
+Converted["_TextLabel6"].Text = "Goodboy"
 Converted["_TextLabel6"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_TextLabel6"].TextScaled = true
 Converted["_TextLabel6"].TextSize = 14
